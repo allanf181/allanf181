@@ -16,7 +16,14 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <img alt="" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=allanf181">
-  <img alt="" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=allanf181">
+  <details>
+  <summary>Skills</summary>
+  
+  <p align="center">
+    <img alt="" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=allanf181">
+  </p>
+  
+  </details>
 </p>
 
 <details>
