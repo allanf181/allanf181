@@ -15,5 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img alt="Thonk" src="https://i.imgur.com/zXAA3CV.gif">
+  <img alt="" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=allanf181">
+  <img alt="" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=allanf181">
 </p>
+
+<details>
+  <summary>Thonk</summary>
+  
+  <p align="center">
+    <img alt="Thonk" src="https://i.imgur.com/zXAA3CV.gif">
+  </p>
+  
+</details>
