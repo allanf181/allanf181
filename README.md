@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img alt="" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=allanf181">
+  <img alt="" src="https://user-images.githubusercontent.com/14101716/190838286-a3b9d596-4d39-417a-b176-53ab9919f77d.png">
   <details>
   <summary>Skills</summary>
   
   <p align="center">
-    <img alt="" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=allanf181">
+    <img alt="" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=allanf181&bg=gray">
   </p>
   
   </details>
