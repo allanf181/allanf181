@@ -34,5 +34,6 @@ Here are some ideas to get you started:
   </p>
   
 </details>
+
 ```math
 \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('github.com/allanf181/allanf181/blob/master/MiB.svg?raw=true');]{x0000}$}
