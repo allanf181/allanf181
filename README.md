@@ -16,15 +16,18 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+  <p><img src="https://github-readme-stats.vercel.app/api?username=allanf181&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" alt=""><br><br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=allanf181&amp;theme=dark&amp;hide_border=false" alt=""><br><br>
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanf181&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt=""></p>
   <img alt="" src="https://user-images.githubusercontent.com/14101716/190838286-a3b9d596-4d39-417a-b176-53ab9919f77d.png">
   <details>
-  <summary>Skills</summary>
+  <summary>Skills</summary>-->
   
-  <p align="center">
+  <!--<p align="center">
     <img alt="" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=allanf181&bg=gray">
   </p>
   
-  </details>
+  </details>-->
 </p>
 
 <details>
